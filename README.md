@@ -8,11 +8,10 @@
 
 Tôi là một developer đam mê công nghệ và luôn tìm hiểu những điều mới. Tôi thích xây dựng những ứng dụng hữu ích và chia sẻ kiến thức với cộng đồng.
 
-## 📊 Thống kê GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kin1304&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kin1304&theme=radical" alt="GitHub Streak" />
+  <a href="https://kin1304.studio" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
 </div>
 
 ## 🛠️ Công nghệ & Kỹ năng
