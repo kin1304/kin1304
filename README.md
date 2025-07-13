@@ -1,7 +1,7 @@
 # 👋 Xin chào! Tôi là Kin
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Kin1304!;Welcome+to+my+GitHub+profile!&center=true&size=27">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Kin!;Welcome+to+my+GitHub+profile!&center=true&size=27">
 </div>
 
 ## 🚀 Về tôi
@@ -74,9 +74,9 @@ Tôi là một developer đam mê công nghệ và luôn tìm hiểu những đi
           </p>
         </div>
         <p align="center">
-          Dự án phân tích và quản lý dữ liệu.
+          Ứng dụng phân tích dữ liệu sử dụng thuật toán data mining để gom cụm các đồ vật được mua nhiều trong cửa hàng.
           <br>
-          <strong>Công nghệ:</strong> C#, ASP.NET, SQL Server, Docker
+          <strong>Công nghệ:</strong> Python, Streamlit, Data Mining, Clustering Algorithms
         </p>
       </td>
     </tr>
@@ -86,17 +86,14 @@ Tôi là một developer đam mê công nghệ và luôn tìm hiểu những đi
 ## 📫 Liên hệ
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nguyennha6a6kl@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/nh%C3%A3-nguy%E1%BB%85n-0412022a2/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://dev.to/your-handle">
-    <img src="https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
+  <a href="https://www.facebook.com/nguyen.nha.974877/">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </div>
 
