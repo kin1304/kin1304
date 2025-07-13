@@ -1,7 +1,7 @@
 # 👋 Xin chào! Tôi là Kin
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Kin!;Welcome+to+my+GitHub+profile!&center=true&size=27">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Kin!;Welcome+to+my+GitHub+profile!&center=true&size=27&color=ffffff&width=500">
 </div>
 
 ## 🚀 Về tôi
