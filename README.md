@@ -39,6 +39,7 @@ Tôi là một developer đam mê công nghệ và luôn tìm hiểu những đi
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ## 🎯 Dự án nổi bật
 
@@ -65,22 +66,27 @@ Tôi là một developer đam mê công nghệ và luôn tìm hiểu những đi
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">📊 DAPM</h3>
+        <h3 align="center">🦆 DuckRace</h3>
         <div align="center">
-          <a href="https://github.com/kin1304/Deploy" target="_blank">
-            <img src="https://via.placeholder.com/400x250/1a1a1a/ffffff?text=DAPM" width="100%" alt="DAPM"/>
+          <a href="https://github.com/kin1304/duckrace" target="_blank">
+            <img src="https://via.placeholder.com/400x250/1a1a1a/ffffff?text=DuckRace" width="100%" alt="DuckRace"/>
           </a>
           <br>
           <p align="center">
-            <a href="https://github.com/kin1304/Deploy" target="_blank">
+            <a href="https://github.com/kin1304/duckrace" target="_blank">
               <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+            </a>
+            <a href="https://duckrace.onrender.com/index.html" target="_blank" style="margin-left: 10px;">
+              <img src="https://img.shields.io/badge/-Demo-43B581?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo">
             </a>
           </p>
         </div>
         <p align="center">
-          Ứng dụng phân tích dữ liệu sử dụng thuật toán data mining để gom cụm các đồ vật được mua nhiều trong cửa hàng.
+          Trò chơi đua vịt trực tuyến vui nhộn, cho phép nhiều người cùng tham gia và cổ vũ vịt về đích.
           <br>
-          <strong>Công nghệ:</strong> Python, Streamlit, Data Mining, Clustering Algorithms
+          <strong>Công nghệ:</strong> JavaScript, HTML5, CSS3, C#, ASP.NET
+          <br>
+          <strong>Triển khai:</strong> Docker, Render
         </p>
       </td>
     </tr>
