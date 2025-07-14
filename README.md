@@ -47,12 +47,10 @@ Tôi là một developer đam mê công nghệ và luôn tìm hiểu những đi
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🏢 CNPM_NC</h3>
+        <a href="https://github.com/kin1304/CNPM_NC" target="_blank">
+          <h3 align="center">🏢 CNPM_NC</h3>
+        </a>
         <div align="center">
-          <a href="https://github.com/kin1304/CNPM_NC" target="_blank">
-            <img src="https://via.placeholder.com/400x250/1a1a1a/ffffff?text=CNPM_NC" width="100%" alt="CNPM_NC"/>
-          </a>
-          <br>
           <p align="center">
             <a href="https://github.com/kin1304/CNPM_NC" target="_blank">
               <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -66,12 +64,10 @@ Tôi là một developer đam mê công nghệ và luôn tìm hiểu những đi
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">🦆 DuckRace</h3>
+        <a href="https://github.com/kin1304/duckrace" target="_blank">
+            <h3 align="center">🦆 DuckRace</h3>
+        </a>
         <div align="center">
-          <a href="https://github.com/kin1304/duckrace" target="_blank">
-            <img src="https://via.placeholder.com/400x250/1a1a1a/ffffff?text=DuckRace" width="100%" alt="DuckRace"/>
-          </a>
-          <br>
           <p align="center">
             <a href="https://github.com/kin1304/duckrace" target="_blank">
               <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
