@@ -47,9 +47,7 @@ Tôi là một developer đam mê công nghệ và luôn tìm hiểu những đi
   <table>
     <tr>
       <td width="50%">
-        <a href="https://github.com/kin1304/CNPM_NC" target="_blank">
-          <h3 align="center">🏢 CNPM_NC</h3>
-        </a>
+        <h3 align="center">🏢 CNPM_NC</h3>
         <div align="center">
           <p align="center">
             <a href="https://github.com/kin1304/CNPM_NC" target="_blank">
@@ -64,9 +62,7 @@ Tôi là một developer đam mê công nghệ và luôn tìm hiểu những đi
         </p>
       </td>
       <td width="50%">
-        <a href="https://github.com/kin1304/duckrace" target="_blank">
-            <h3 align="center">🦆 DuckRace</h3>
-        </a>
+        <h3 align="center">🦆 DuckRace</h3>
         <div align="center">
           <p align="center">
             <a href="https://github.com/kin1304/duckrace" target="_blank">
