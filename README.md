@@ -33,7 +33,7 @@ Tôi là một Data Analyst định hướng chuyên sâu về phân tích dữ 
 ### Database
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
