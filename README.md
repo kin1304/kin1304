@@ -6,7 +6,7 @@
 
 ## 🚀 Về tôi
 
-Tôi là một developer đam mê công nghệ và luôn tìm hiểu những điều mới. Tôi thích xây dựng những ứng dụng hữu ích và chia sẻ kiến thức với cộng đồng.
+Tôi là một Data Analyst định hướng chuyên sâu về phân tích dữ liệu, trực quan hóa và khai phá thông tin giá trị từ dữ liệu. Tôi đam mê học hỏi công nghệ mới, có kinh nghiệm sử dụng Python, SQL, các thư viện phân tích, machine learning và deep learning, cũng như thực hiện các dự án thực tế về xử lý, phân tích dữ liệu. Mục tiêu của tôi là phát triển sự nghiệp trong lĩnh vực Data Analytics và đóng góp giá trị cho doanh nghiệp thông qua dữ liệu.
 
 <div align="center">
   <a href="https://kin1304.studio" target="_blank">
@@ -16,23 +16,34 @@ Tôi là một developer đam mê công nghệ và luôn tìm hiểu những đi
 
 ## 🛠️ Công nghệ & Kỹ năng
 
-### Ngôn ngữ lập trình
+### Data Analytics
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/-Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+### Database
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Backend
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend & Database
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
-
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -47,38 +58,33 @@ Tôi là một developer đam mê công nghệ và luôn tìm hiểu những đi
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🏢 CNPM_NC</h3>
+        <h3 align="center">📊 DAPM</h3>
         <div align="center">
           <p align="center">
-            <a href="https://github.com/kin1304/CNPM_NC" target="_blank">
+            <a href="https://github.com/kin1304/DAPM" target="_blank">
               <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
             </a>
           </p>
         </div>
         <p align="center">
-          Hệ thống quản lý dựa trên ASP.NET Core và SQL Server. 
+          Ứng dụng phân tích dữ liệu sử dụng thuật toán data mining để gom cụm các đồ vật được mua nhiều trong cửa hàng.
           <br>
-          <strong>Công nghệ:</strong> C#, ASP.NET, Entity Framework, SQL Server
+          <strong>Công nghệ:</strong> Python, Streamlit, Data Mining, Clustering Algorithms
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">🦆 DuckRace</h3>
+        <h3 align="center">🧠 TextGraph</h3>
         <div align="center">
           <p align="center">
-            <a href="https://github.com/kin1304/duckrace" target="_blank">
+            <a href="https://github.com/hoadm-net/TextGraph" target="_blank">
               <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-            </a>
-            <a href="https://duckrace.onrender.com/index.html" target="_blank" style="margin-left: 10px;">
-              <img src="https://img.shields.io/badge/-Demo-43B581?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo">
             </a>
           </p>
         </div>
         <p align="center">
-          Trò chơi đua vịt trực tuyến vui nhộn, cho phép nhiều người cùng tham gia và cổ vũ vịt về đích.
+          Khảo sát các mô hình GNNs cho bài toán phân tích cảm xúc tiếng Việt, thực nghiệm trên các tập dữ liệu UIT-VSFC và Foody.
           <br>
-          <strong>Công nghệ:</strong> JavaScript, HTML5, CSS3, C#, ASP.NET
-          <br>
-          <strong>Triển khai:</strong> Docker, Render
+          <strong>Công nghệ:</strong> Python, Jupyter Notebook, GNNs, TextGCN, HGAT, BertGCN, GraphSAGE
         </p>
       </td>
     </tr>
