@@ -97,7 +97,7 @@ Tôi là một Data Analyst định hướng chuyên sâu về phân tích dữ 
   <a href="mailto:nguyennha6a6kl@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/nh%C3%A3-nguy%E1%BB%85n-0412022a2/">
+  <a href="https://www.linkedin.com/in/kin1304/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/nguyen.nha.974877/">
